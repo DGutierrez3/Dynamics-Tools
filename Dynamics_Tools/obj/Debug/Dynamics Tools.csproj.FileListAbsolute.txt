@@ -1,0 +1,20 @@
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\System.Data.DataSetExtensions.4.0.0.0.Fakes.fakesconfig
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\Microsoft.CSharp.dll
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\de\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\Dynamics Tools.csproj.GenerateResource.Cache
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\Dynamics Tools.exe.config
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\Dynamics Tools.exe
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\Dynamics Tools.pdb
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\DynamicsTools.Properties.Resources.resources
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\Dynamics Tools.exe
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\Dynamics Tools.pdb
+D:\Benutzer\DGutierrez\Documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\DynamicsTools.Login.resources
+D:\Benutzer\DGutierrez\Documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\DynamicsTools.Form_2.Daten_Transfer.resources
+D:\Benutzer\DGutierrez\Documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\DynamicsTools.Form_2.Empty_Users.resources
+D:\Benutzer\DGutierrez\Documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\Dynamics Tools.csprojFakesResolveAssemblyReference.cache
+D:\Benutzer\DGutierrez\Documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Dynamics_Tools\bin\Debug\Dynamics Tools.exe.config
+D:\Benutzer\DGutierrez\Documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Dynamics_Tools\obj\Debug\Dynamics Tools.exe
+D:\Benutzer\DGutierrez\Documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Dynamics_Tools\obj\Debug\Dynamics Tools.pdb

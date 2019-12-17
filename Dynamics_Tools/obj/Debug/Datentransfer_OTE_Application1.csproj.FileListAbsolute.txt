@@ -1,0 +1,17 @@
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\Datentransfer_OTE_Application1.exe.config
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\Datentransfer_OTE_Application1.exe
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\Datentransfer_OTE_Application1.pdb
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\Datentransfer_OTE_Application1.Properties.Resources.resources
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\Datentransfer_OTE_Application1.csproj.GenerateResource.Cache
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\Datentransfer_OTE_Application1.exe
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\Datentransfer_OTE_Application1.pdb
+D:\Benutzer\DGutierrez\Documents\Visual Studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\Microsoft.CSharp.dll
+D:\Benutzer\DGutierrez\Documents\Visual Studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Benutzer\DGutierrez\Documents\Visual Studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\de\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\System.Data.DataSetExtensions.4.0.0.0.Fakes.fakesconfig
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\Datentransfer_OTE_Application1.csprojFakesResolveAssemblyReference.cache
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\Datentransfer_OTE_Application1.Form_2.Daten_Transfer.resources
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\Datentransfer_OTE_Application1.Form_2.Empty_Users.resources
+d:\benutzer\dgutierrez\documents\visual studio 2012\Projects\Datentransfer_OTE_Application1\Datentransfer_OTE_Application1\obj\Debug\Datentransfer_OTE_Application1.Login.resources
